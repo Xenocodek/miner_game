@@ -23,7 +23,7 @@
 ## Как запустить локально
 1. Скачайте или клонируйте репозиторий:
    ```
-   git clone <ссылка на ваш репозиторий>
+   git clone https://github.com/Xenocodek/miner_game.git
    ```
 2. Откройте папку проекта и запустите файл `index.html` в браузере.
 3. Для корректной работы рекламы и SDK Яндекс Игр используйте локальный сервер (например, [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) для VS Code или любой другой).
