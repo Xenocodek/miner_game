@@ -6,7 +6,8 @@
 
 ## Скриншот
 
-![Скриншот](./screenshot.png)
+![Скриншот](https://github.com/user-attachments/assets/1587cfeb-4e97-4601-81e6-c57ebe5801a3)
+
 
 ---
 
